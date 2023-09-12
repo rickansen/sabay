@@ -1,6 +1,7 @@
 const data = {
   groups: [
     {
+      id: 1,
       name: 'JFINEX',
       description: 'Financial Management Student Org',
       type: 'Friends',
@@ -9,6 +10,7 @@ const data = {
       image: '/images/p1.jpg',
     },
     {
+      id: 2,
       name: 'Feasib',
       description: 'Product Feasibility Study Group',
       type: 'Friends',
